@@ -8,6 +8,7 @@ TIME(millisecond) https://examople1.com
 TIME(millisecond) https://examople2.com
 
 EXAMPLE : 
-
+...
 400 https://www.github.com
 500 https://www.google.com
+...
