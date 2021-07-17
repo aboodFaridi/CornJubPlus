@@ -1,0 +1,13 @@
+This cornjob created with c# Consoleapplication for windows.
+Download from https://github.com/aboodFaridi/CornJubPlus/blob/main/CornjobPlus.rar 
+
+how to Change Links And Times ?
+Open CornJob Config.txt from folder and Edit Links like :
+
+TIME(millisecond) https://examople1.com
+TIME(millisecond) https://examople2.com
+
+EXAMPLE : 
+
+400 https://www.github.com
+500 https://www.google.com
