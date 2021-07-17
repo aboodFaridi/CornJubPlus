@@ -1,0 +1,2 @@
+100 https://fxprimeapp.com/binance/api/insertPrice.php
+400 https://fxprimeapp.com/binance/api/insertPrice.php
